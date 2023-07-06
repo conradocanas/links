@@ -19,6 +19,10 @@ const links = [
     title: "LinkedIn",
     url: "https://www.linkedin.com/in/conradocanas/",
   },
+  {
+    title: "Threads",
+    url: "https://www.threads.net/@conradocanas",
+  },
 ];
 
 const shuffledArray = shuffleArray(links);
